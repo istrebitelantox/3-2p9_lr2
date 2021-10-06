@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\bin\Debug\netcoreapp3.1\ХомеВорк.exe
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\bin\Debug\netcoreapp3.1\ХомеВорк.deps.json
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\bin\Debug\netcoreapp3.1\ХомеВорк.runtimeconfig.json
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\bin\Debug\netcoreapp3.1\ХомеВорк.runtimeconfig.dev.json
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\bin\Debug\netcoreapp3.1\ХомеВорк.dll
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\bin\Debug\netcoreapp3.1\ХомеВорк.pdb
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.AssemblyInfo.cs
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.dll
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.pdb
+C:\Users\user\Desktop\istrebitel_antox\ХомеВорк\ХомеВорк\obj\Debug\netcoreapp3.1\ХомеВорк.genruntimeconfig.cache
